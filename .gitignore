@@ -1,3 +1,6 @@
+# Visual Studio
+.vs
+
 # C++ objects and libs
 *.slo
 *.lo
